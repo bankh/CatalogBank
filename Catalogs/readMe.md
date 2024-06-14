@@ -11,6 +11,6 @@ CATALOG     445	162	595	194	default
 ...
 
 ```
-First column is the transcript and other four numbers are the coordinates of the bounding box. The last column is the label. Here, since we don't have a label yet it is highlighted as default.
+The first column contains the transcript, and the other four numbers are the coordinates of the bounding box. The last column contains the label. In the example above, since we don't have a label yet, it is highlighted by default.
 
 `./_pdfs` consists of the individual pdf pages of the catalogs.
