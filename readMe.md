@@ -57,6 +57,7 @@ Contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark, T
     <img src="./Docs/figure4.JPG" width="90%"/>
     <p><strong>Figure</strong> a) Digitally-born Catalogs in PDF and b) after preprocessing from well-known vendors.</p>
 </div>
+
 ### __Geometry/__: 🧊🔺🔵 <a name="geometry"></a>
 Stores files related to geometric data. Include a [readMe.md](./Geometry/readMe.md) file to describe the types of geometries, their format, and a data library.  
 
