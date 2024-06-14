@@ -6,7 +6,7 @@ The folder `./_DocumentLabeler/PICK` contains content processed with the PICK mo
 The `_images` folder also contains TXT files for each page. The structure of the text data is as follows:
 
 ```
-NAVIGATE	464	124	620	157	default
+NAVIGATE	  464	124	620	157	default
 CATALOG     445	162	595	194	default
 ...
 
