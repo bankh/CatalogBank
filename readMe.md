@@ -7,7 +7,7 @@
 
 </div>
 
-__Supplementary Material for the Paper(s)__  
+__Accompanying dataset to the Paper(s)__  
 __Part 1-__ [CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool DocumentLabeler for Engineering System Design](HTTP://www.github.com/bankh/CatalogBank)  
 
 <div align="center">
