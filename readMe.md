@@ -2,7 +2,8 @@
  
  <h1 style="text-align: center;">CatalogBank 📚</h1>
 
-[Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ | [Request Full Dataset Access](#request-full-dataset-access) 🔐
+[Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ | 
+[Request Full Dataset Access](#request-full-dataset-access) 🔐
 
 </div>
 
