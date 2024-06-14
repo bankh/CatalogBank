@@ -1,13 +1,3 @@
-METRIC	130	352	321	400	default
-ONLINE	336	352	519	400	default
-PRODUCT	130	404	370	452	default
-GUIDE	385	404	540	452	default
-1ST	130	292	167	311	default
-EDITION	173	292	256	311	default
-misumiusa.com	27	843	40	948	default
-MECHANICAL	130	463	269	484	default
-COMPONENTS	275	463	426	484	default
-FOR	130	489	173	510	default
-ASSEMBLY	179	489	291	510	default
-AUTOMATION	297	489	436	510	default
-##LTFigure##	15	4	746	995	default
+version https://git-lfs.github.com/spec/v1
+oid sha256:31696270bb7c2f44d46652672ce76f59c111193e81fdb99b3fa2f6ac321a9b74
+size 420

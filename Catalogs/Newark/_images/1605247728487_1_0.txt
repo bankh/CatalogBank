@@ -1,28 +1,3 @@
-2	80	914	87	929	default
-newark.com	104	914	170	928	default
-|	176	913	180	930	default
-800.463.9275	184	914	261	928	default
-##LTFigure##	638	312	725	561	default
-##LTFigure##	550	353	638	603	default
-##LTFigure##	463	395	551	644	default
-##LTFigure##	420	436	463	727	default
-##LTFigure##	332	478	420	686	default
-##LTFigure##	245	519	333	644	default
-##LTFigure##	638	561	725	810	default
-##LTFigure##	550	602	638	810	default
-##LTFigure##	463	644	551	769	default
-##LTFigure##	638	810	725	852	default
-##LTFigure##	25	24	725	581	default
-##LTFigure##	725	24	736	313	default
-##LTFigure##	25	454	99	496	default
-##LTFigure##	99	496	173	538	default
-##LTFigure##	25	496	99	538	default
-##LTFigure##	173	538	248	580	default
-##LTFigure##	99	538	173	580	default
-##LTFigure##	25	538	99	580	default
-##LTFigure##	173	580	248	622	default
-##LTFigure##	99	580	173	622	default
-##LTFigure##	25	580	99	622	default
-##LTFigure##	99	622	173	663	default
-##LTFigure##	25	622	99	663	default
-##LTFigure##	25	663	99	705	default
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6440e32269d4a49273ea3923b31d18aed464d326ec27dab7d9549d906283989
+size 991
