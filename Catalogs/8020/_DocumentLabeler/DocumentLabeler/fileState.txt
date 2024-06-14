@@ -1,0 +1,14 @@
+8020_DocumentLabeler/8020_Catalog_23_70_0_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_1_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_2_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_3_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_4_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_5_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_6_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_7_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_8_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_9_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_10_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_11_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_12_ori.jpg	1
+8020_DocumentLabeler/8020_Catalog_23_70_13_ori.jpg	1
