@@ -74,7 +74,7 @@ Contains scripts or tools related to processing the data in CatalogBank. The [re
 The main readMe file at the root of the repository should provide an overview of the entire CatalogBank, including a description of each subfolder and instructions for users. Each main sub-folder has its own readMe files to elaborate on the details of the associated folder.  
 
 ### Request Full Dataset Access 🔐 <a name="request-full-dataset-access"></a>
-In this repository, the shared content is partial (10-50 pages per catalog). In order to request access to the full dataset for educational purposes ({name_lastname}@{affiliation}.edu email address is required), please fill out the following [Google Form](https://your-google-form-link).
+In this repository, the shared content is partial (10-50 pages per catalog). In order to request access to the full dataset for educational purposes ({name_lastname}@{affiliation}.edu email address is required), please fill out the following [Google Form](https://forms.gle/rQVvcgX6cjGCtcqA7).
 
 Once your request is approved, you will receive an email with access instructions.
 
