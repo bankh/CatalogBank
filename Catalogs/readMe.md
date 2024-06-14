@@ -10,7 +10,6 @@ The `_images` folder also contains TXT files for each page. The structure of the
 NAVIGATE  464  124  620  157  default
 CATALOG   445  162  595  194  default
 ...
-
 ```
 The first column contains the transcript, and the other four numbers are the coordinates of the bounding box. The last column contains the label. In the example above, since we don't have a label yet, it is highlighted by default.
 
