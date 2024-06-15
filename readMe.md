@@ -25,7 +25,7 @@ __Note:__ The content relevant to DocumentLabeler is in a separate repository. P
  ```
  CatalogBank/
    ├── Catalogs/
-   │    ├── Samples
+   │    ├── Sample
    │    │    ├── Thorlabs/
    │    │    │   └── OptoMechanics_v21
    │    │    │       ├── _DocumentLabeler
