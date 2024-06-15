@@ -65,13 +65,13 @@ It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark
 Stores files related to geometric data. Include a [readMe.md](./Geometry/readMe.md) file to describe the types of geometries, their format, and a data library.  
 
 ### __Images/__: 🖼️ <a name="images"></a>
-Contains image files. A [readMe.md](./Image/readMe.md) file should explain the image data, its format, and a data library.  
+Contains image files. A [readMe.md](./Image/readMe.md) file explains the image data, its format, and a data library.  
 
 ### __Graphs/__: 🔴➖🔴 <a name="graphs"></a>
-Stores graphical data or visualizations. The [readMe.md](./Graph/readMe.md) file should provide details about these graphs.  
+Stores graphical data or visualizations. The [readMe.md](./Graph/readMe.md) file details these graphs.  
 
 ### __Tools/__: 🛠️ <a name="tools"></a>
-This folder contains scripts or tools for processing the data in CatalogBank. The [readMe.md](./Tools/readMe.md) file should describe each tool and its purpose.  
+This folder contains scripts or tools for processing the data in CatalogBank. The [readMe.md](./Tools/readMe.md) file describes each tool and its purpose.  
 
 ### __readMe.md__: 
 The main readMe file at the root of the repository should provide an overview of the entire CatalogBank, including a description of each subfolder and user instructions. Each main sub-folder has its readMe files to elaborate on the details of the associated folder.  
