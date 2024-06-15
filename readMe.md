@@ -58,7 +58,7 @@ It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark
 
 <div align="center">
     <img src="./Docs/figure4.JPG" width="90%"/>
-    <p><strong>Figure</strong> a) Digitally-born Catalogs in PDF and b) after preprocessing from well-known vendors.</p>
+    <p><strong>Figure</strong> a) Digitally-born Catalogs in PDF and b) after <a href="./Tools/1_CatalogBank_Preprocess_GenerateData.ipynb">preprocessing</a> from well-known vendors.</p>
 </div>
 
 ### __Geometry/__: 🧊🔺🔵 <a name="geometry"></a>
