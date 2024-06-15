@@ -64,11 +64,11 @@ It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark
 ### __Geometry/__: 🧊🔺🔵 <a name="geometry"></a>
 Stores files related to geometric data. Include a [readMe.md](./Geometry/readMe.md) file to describe the types of geometries, their format, and a data library.  
 
-### __Images/__: 🖼️ <a name="images"></a>
-Contains image files. A [readMe.md](./Image/readMe.md) file explains the image data, its format, and a data library.  
-
 ### __Graphs/__: 🔴➖🔴 <a name="graphs"></a>
 Stores graphical data or visualizations. The [readMe.md](./Graph/readMe.md) file details these graphs.  
+
+### __Images/__: 🖼️ <a name="images"></a>
+Contains image files. A [readMe.md](./Image/readMe.md) file explains the image data, its format, and a data library.  
 
 ### __Tools/__: 🛠️ <a name="tools"></a>
 This folder contains scripts or tools for processing the data in CatalogBank. The [readMe.md](./Tools/readMe.md) file describes each tool and its purpose.  
