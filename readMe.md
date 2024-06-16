@@ -1,5 +1,5 @@
 <div align="center" style="font-size: 22pt;"> 
- <img src="./Docs/catalog_web.JPG" width="50%"/>
+ <img src="./RepoAssets/catalog_web.JPG" width="50%"/>
  <h1 style="text-align: center;">CatalogBank 📚</h1>
 
 [Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ |  
@@ -11,7 +11,7 @@ __Accompanying dataset to the Paper(s)__
 __Part 1-__ [CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool DocumentLabeler for Engineering System Design](HTTP://www.github.com/bankh/CatalogBank)  
 
 <div align="center">
-    <img src="./Docs/figure2_web.JPG" width="90%"/>
+    <img src="./RepoAssets/figure2_web.JPG" width="90%"/>
     <p><strong>Figure</strong> A sample for presenting the overall architecture of the complete envisioned CatalogBank dataset.</p>
 </div>
 
@@ -57,7 +57,7 @@ __Note:__ The content relevant to DocumentLabeler is in a separate repository. P
 It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark, Tools). Each subfolder can have its own [readMe.md](./Catalogs/readMe.md) file to describe its contents and any specifics related to that catalog.  
 
 <div align="center">
-    <img src="./Docs/figure4.JPG" width="90%"/>
+    <img src="./RepoAssets/figure4.JPG" width="90%"/>
     <p><strong>Figure</strong> a) Digitally-born Catalogs in PDF and b) after <a href="./Tools/1_CatalogBank_Preprocess_GenerateData.ipynb">preprocessing</a> from well-known vendors.</p>
 </div>
 
