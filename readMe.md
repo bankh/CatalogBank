@@ -38,7 +38,7 @@ __Note:__ The content relevant to DocumentLabeler is in a separate repository. P
    │    │    │   ...
    │    │    │   
    │    │    └── Company X/
-   │    │        └── (SAME AS Thorlabs)
+   │    │        └── (SAME structure as Thorlabs/OptoMechanics_v21)
    │    ├── Complete/
    │    │    └── (Require full dataset access)
    │    ├── Tools/
