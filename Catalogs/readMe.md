@@ -1,4 +1,4 @@
-### The Folder Structure and Their Explanation in Catalog:
+### The Folder Structure and its Explanation in Catalog:
 `./_DocumentLabeler` contains the `./_DocumentLabeler/DocumentLabeler` folder for importing non-annotated data directly into the DocumentLabeler tool for further processing. Users can also import other folders into DocumentLabeler.
 The folder `./_DocumentLabeler/PICK` contains content processed with the PICK model. Users can utilize their own models and incorporate them into this `./_DocumentLabeler/` folder as `./_DocumentLabeler/Model/`.
 
