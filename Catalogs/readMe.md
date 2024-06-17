@@ -17,3 +17,7 @@ The `_images` folder also contains TXT files for each page. The structure of the
 </table>
 The first column contains the transcript, and the other four numbers are the coordinates of the bounding box. The last column contains the label. In the example above, since we don't have a label yet, it is highlighted by default.  
 `./_pdfs` consists of the individual pdf pages of the catalogs in case the users would like to utilize their own tools on these pages.  
+
+<br>
+
+**❗ REMARK: ❗** The `./Shuffled` folder contains the shuffled sample data created using the entire sample catalogs with the [test_file_shuffle](../Tools/test_file_shuffle.py) script.
