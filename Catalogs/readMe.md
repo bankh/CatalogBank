@@ -21,4 +21,4 @@
 
 <br>
 
-**❗ REMARK: ❗** The `./Shuffled` folder contains the shuffled sample data created using the entire sample catalogs with the [test_file_shuffle](../Tools/test_file_shuffle.py) script.
+**❗ REMARK: ❗** The `./Shuffled` folder contains the shuffled sample data created using the entire sample catalogs with the [test_file_shuffle](../Tools/test_file_shuffle.py) script via `python test_file_shuffle.py /path/to/source /path/to/target number_of_pages`.
