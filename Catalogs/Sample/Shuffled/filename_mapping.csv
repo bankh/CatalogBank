@@ -1,0 +1,825 @@
+Source Filename,Target Filename
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_25.pdf,./Shuffled/_pdfs/pdf_000001.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000001.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000001_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000001_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000001_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_17.pdf,./Shuffled/_pdfs/pdf_000002.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000002_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000002_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000002_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000002.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_14.pdf,./Shuffled/_pdfs/pdf_000003.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000003.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000003_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000003_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000003_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_20.pdf,./Shuffled/_pdfs/pdf_000004.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000004_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000004_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000004.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000004_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_18.pdf,./Shuffled/_pdfs/pdf_000005.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000005_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000005.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000005_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000005_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_5.pdf,./Shuffled/_pdfs/pdf_000006.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000006.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000006.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000006_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_0.pdf,./Shuffled/_pdfs/pdf_000007.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000007_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000007_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000007.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000007_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_50.pdf,./Shuffled/_pdfs/pdf_000008.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000008.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000008_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000008_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000008_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_19.pdf,./Shuffled/_pdfs/pdf_000009.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000009_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000009.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000009_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000009_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_26.pdf,./Shuffled/_pdfs/pdf_000010.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000010_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000010_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000010.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000010_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_21.pdf,./Shuffled/_pdfs/pdf_000011.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000011_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000011_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000011.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000011_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_11.pdf,./Shuffled/_pdfs/pdf_000012.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000012_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000012.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000012_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000012_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_7.pdf,./Shuffled/_pdfs/pdf_000013.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000013_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000013.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000013_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000013_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_36.pdf,./Shuffled/_pdfs/pdf_000014.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000014_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000014_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000014.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000014_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_31.pdf,./Shuffled/_pdfs/pdf_000015.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000015_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000015_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000015.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000015_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_16.pdf,./Shuffled/_pdfs/pdf_000016.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000016_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000016.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000016_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000016_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_27.pdf,./Shuffled/_pdfs/pdf_000017.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000017_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000017_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000017_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000017.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_8.pdf,./Shuffled/_pdfs/pdf_000018.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000018.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000018_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000018_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000018_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_49.pdf,./Shuffled/_pdfs/pdf_000019.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000019_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000019.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000019_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000019_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_9.pdf,./Shuffled/_pdfs/pdf_000020.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000020.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000020_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000020_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000020_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_44.pdf,./Shuffled/_pdfs/pdf_000021.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000021_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000021_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000021.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000021_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_3.pdf,./Shuffled/_pdfs/pdf_000022.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000022.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000022_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_37.pdf,./Shuffled/_pdfs/pdf_000023.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000023.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000023_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000023_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000023_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_34.pdf,./Shuffled/_pdfs/pdf_000024.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000024_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000024.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000024_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000024_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_42.pdf,./Shuffled/_pdfs/pdf_000025.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000025.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000025_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000025_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000025_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_41.pdf,./Shuffled/_pdfs/pdf_000026.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000026_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000026_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000026.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000026_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_30.pdf,./Shuffled/_pdfs/pdf_000027.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000027.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000027_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000027_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000027_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_15.pdf,./Shuffled/_pdfs/pdf_000028.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000028.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000028_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000028_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000028_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_2.pdf,./Shuffled/_pdfs/pdf_000029.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000029.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000029_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_24.pdf,./Shuffled/_pdfs/pdf_000030.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000030.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000030_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000030_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000030_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_43.pdf,./Shuffled/_pdfs/pdf_000031.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000031_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000031_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000031.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000031_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_10.pdf,./Shuffled/_pdfs/pdf_000032.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000032_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000032_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000032.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000032_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_12.pdf,./Shuffled/_pdfs/pdf_000033.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000033_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000033_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000033_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000033.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_4.pdf,./Shuffled/_pdfs/pdf_000034.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000034.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000034_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_13.pdf,./Shuffled/_pdfs/pdf_000035.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000035_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000035_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000035_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000035.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_38.pdf,./Shuffled/_pdfs/pdf_000036.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000036.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000036_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000036_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000036_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_22.pdf,./Shuffled/_pdfs/pdf_000037.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000037_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000037.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000037_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000037_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_29.pdf,./Shuffled/_pdfs/pdf_000038.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000038_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000038_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000038_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000038.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_28.pdf,./Shuffled/_pdfs/pdf_000039.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000039_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000039.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000039_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000039_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_23.pdf,./Shuffled/_pdfs/pdf_000040.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000040.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000040_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000040_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000040_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_39.pdf,./Shuffled/_pdfs/pdf_000041.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000041_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000041.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000041_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000041_ann.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_46.pdf,./Shuffled/_pdfs/pdf_000042.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000042_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000042.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000042_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000042_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_6.pdf,./Shuffled/_pdfs/pdf_000043.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000043_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000043_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000043.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000043_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_33.pdf,./Shuffled/_pdfs/pdf_000044.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000044_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000044_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000044.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000044_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_32.pdf,./Shuffled/_pdfs/pdf_000045.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000045_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000045_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000045_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000045.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_47.pdf,./Shuffled/_pdfs/pdf_000046.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000046_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000046_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000046.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000046_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_1.pdf,./Shuffled/_pdfs/pdf_000047.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000047_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000047.txt
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_40.pdf,./Shuffled/_pdfs/pdf_000048.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000048_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000048.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000048_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000048_ori.jpg
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_35.pdf,./Shuffled/_pdfs/pdf_000049.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000049_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000049_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000049.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000049_ann.png
+../Catalogs/Sample/McMasterCarr/_pdfs/mcmaster-125_3378_45.pdf,./Shuffled/_pdfs/pdf_000050.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000050.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000050_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000050_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000050_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_4.pdf,./Shuffled/_pdfs/pdf_000051.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000051.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000051_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_85.pdf,./Shuffled/_pdfs/pdf_000052.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000052_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000052_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000052_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000052.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_53.pdf,./Shuffled/_pdfs/pdf_000053.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000053.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000053_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000053_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000053_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_60.pdf,./Shuffled/_pdfs/pdf_000054.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000054.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000054_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000054_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000054_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_67.pdf,./Shuffled/_pdfs/pdf_000055.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000055_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000055_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000055_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000055.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_86.pdf,./Shuffled/_pdfs/pdf_000056.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000056_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000056_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000056.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000056_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_11.pdf,./Shuffled/_pdfs/pdf_000057.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000057_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000057_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000057_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000057.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_88.pdf,./Shuffled/_pdfs/pdf_000058.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000058.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000058_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000058_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000058_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_24.pdf,./Shuffled/_pdfs/pdf_000059.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000059_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000059.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000059_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000059_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_54.pdf,./Shuffled/_pdfs/pdf_000060.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000060_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000060.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000060_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000060_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_66.pdf,./Shuffled/_pdfs/pdf_000061.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000061_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000061.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000061_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000061_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_35.pdf,./Shuffled/_pdfs/pdf_000062.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000062_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000062_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000062_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000062.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_59.pdf,./Shuffled/_pdfs/pdf_000063.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000063_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000063.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000063_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000063_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_50.pdf,./Shuffled/_pdfs/pdf_000064.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000064_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000064_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000064_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000064.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_1.pdf,./Shuffled/_pdfs/pdf_000065.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000065.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000065_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_0.pdf,./Shuffled/_pdfs/pdf_000066.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000066_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000066.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000066_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000066_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_82.pdf,./Shuffled/_pdfs/pdf_000067.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000067_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000067_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000067_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000067.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_71.pdf,./Shuffled/_pdfs/pdf_000068.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000068_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000068_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000068_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000068.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_6.pdf,./Shuffled/_pdfs/pdf_000069.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000069_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000069.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_21.pdf,./Shuffled/_pdfs/pdf_000070.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000070.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000070_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000070_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000070_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_7.pdf,./Shuffled/_pdfs/pdf_000071.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000071.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000071_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_43.pdf,./Shuffled/_pdfs/pdf_000072.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000072_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000072_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000072_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000072.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_25.pdf,./Shuffled/_pdfs/pdf_000073.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000073.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000073_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000073_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000073_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_30.pdf,./Shuffled/_pdfs/pdf_000074.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000074_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000074_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000074.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000074_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_99.pdf,./Shuffled/_pdfs/pdf_000075.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000075_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000075_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000075_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000075.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_23.pdf,./Shuffled/_pdfs/pdf_000076.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000076_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000076_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000076.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000076_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_58.pdf,./Shuffled/_pdfs/pdf_000077.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000077_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000077_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000077_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000077.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_15.pdf,./Shuffled/_pdfs/pdf_000078.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000078_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000078.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000078_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000078_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_37.pdf,./Shuffled/_pdfs/pdf_000079.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000079_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000079.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000079_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000079_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_14.pdf,./Shuffled/_pdfs/pdf_000080.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000080.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000080_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000080_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000080_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_69.pdf,./Shuffled/_pdfs/pdf_000081.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000081_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000081_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000081_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000081.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_95.pdf,./Shuffled/_pdfs/pdf_000082.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000082_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000082_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000082_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000082.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_76.pdf,./Shuffled/_pdfs/pdf_000083.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000083_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000083.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000083_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000083_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_39.pdf,./Shuffled/_pdfs/pdf_000084.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000084_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000084_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000084.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000084_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_84.pdf,./Shuffled/_pdfs/pdf_000085.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000085.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000085_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000085_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000085_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_80.pdf,./Shuffled/_pdfs/pdf_000086.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000086_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000086_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000086.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000086_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_56.pdf,./Shuffled/_pdfs/pdf_000087.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000087_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000087_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000087_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000087.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_36.pdf,./Shuffled/_pdfs/pdf_000088.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000088_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000088_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000088_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000088.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_97.pdf,./Shuffled/_pdfs/pdf_000089.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000089_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000089_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000089.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000089_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_63.pdf,./Shuffled/_pdfs/pdf_000090.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000090_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000090_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000090.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000090_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_83.pdf,./Shuffled/_pdfs/pdf_000091.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000091_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000091_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000091.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000091_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_51.pdf,./Shuffled/_pdfs/pdf_000092.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000092_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000092_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000092_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000092.txt
+../Catalogs/Sample/Newark/_pdfs/1605247728487_13.pdf,./Shuffled/_pdfs/pdf_000093.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000093_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000093.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000093_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000093_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_98.pdf,./Shuffled/_pdfs/pdf_000094.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000094_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000094_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000094.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000094_ori.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_16.pdf,./Shuffled/_pdfs/pdf_000095.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000095.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000095_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000095_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000095_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_92.pdf,./Shuffled/_pdfs/pdf_000096.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000096_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000096_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000096.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000096_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_49.pdf,./Shuffled/_pdfs/pdf_000097.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000097_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000097.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000097_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000097_ann.jpg
+../Catalogs/Sample/Newark/_pdfs/1605247728487_41.pdf,./Shuffled/_pdfs/pdf_000098.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000098.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000098_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000098_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000098_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_46.pdf,./Shuffled/_pdfs/pdf_000099.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000099_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000099_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000099.txt
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000099_ann.png
+../Catalogs/Sample/Newark/_pdfs/1605247728487_20.pdf,./Shuffled/_pdfs/pdf_000100.pdf
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000100_ann.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000100_ann.png
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/img_000100_ori.jpg
+<_io.TextIOWrapper name='./Shuffled/filename_mapping.csv' mode='a' encoding='UTF-8'>,./Shuffled/_images/txt_000100.txt

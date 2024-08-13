@@ -1,68 +1,108 @@
 import os
-import shutil
 import random
+import shutil
 import csv
-import argparse
+import sys
 
-# Function to generate new filenames
-def generate_new_filename(file_type, index, ext):
-    return f"{file_type}_{index:04d}{ext}"
+def main(sample_folder, target_folder, num_pdfs):
+    # Ensure the target directory exists
+    if not os.path.exists(target_folder):
+        os.makedirs(target_folder)
 
-def main(sample_dir, shuffled_dir):
-    shuffled_pdfs_dir = os.path.join(shuffled_dir, '_pdfs')
-    shuffled_images_dir = os.path.join(shuffled_dir, '_images')
+    # Create the _pdfs and _images directories in the target folder
+    target_pdf_dir = os.path.join(target_folder, "_pdfs")
+    target_image_dir = os.path.join(target_folder, "_images")
 
-    # Create the shuffled directories if they don't exist
-    os.makedirs(shuffled_pdfs_dir, exist_ok=True)
-    os.makedirs(shuffled_images_dir, exist_ok=True)
+    if not os.path.exists(target_pdf_dir):
+        os.makedirs(target_pdf_dir)
 
-    # Collect all pdf and image files from the individual catalogs
-    pdf_files = []
-    image_files = []
+    if not os.path.exists(target_image_dir):
+        os.makedirs(target_image_dir)
 
-    for root, dirs, files in os.walk(sample_dir):
-        for file in files:
-            if file.endswith('.pdf'):
-                pdf_files.append(os.path.join(root, file))
-            elif file.endswith('.jpg') or file.endswith('.png') or file.endswith('.txt'):
-                image_files.append(os.path.join(root, file))
+    # Initialize the global counter for file enumeration
+    global_counter = 1
+    total_pdfs_picked = 0  # Track the total number of PDFs processed
 
-    # Shuffle the lists of files
-    random.shuffle(pdf_files)
-    random.shuffle(image_files)
+    # Create a CSV file for tracking
+    csv_file = os.path.join(target_folder, "filename_mapping.csv")
+    with open(csv_file, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Source Filename", "Target Filename"])
 
-    # Prepare a list to keep track of original and new file paths
-    file_mappings = []
+    # Loop through each catalog in the source folder
+    for catalog in os.listdir(sample_folder):
+        catalog_path = os.path.join(sample_folder, catalog)
+        pdf_folder = os.path.join(catalog_path, "_pdfs")
+        image_folder = os.path.join(catalog_path, "_images")
 
-    # Copy the shuffled files to the new shuffled directories with new names and keep track
-    for index, file in enumerate(pdf_files):
-        new_filename = generate_new_filename('pdf', index, os.path.splitext(file)[1])
-        new_filepath = os.path.join(shuffled_pdfs_dir, new_filename)
-        shutil.copy(file, new_filepath)
-        file_mappings.append({'original_path': file, 'new_path': new_filepath})
+        if not os.path.exists(pdf_folder) or not os.path.exists(image_folder):
+            continue  # Skip if the folder structure is incorrect
 
-    for index, file in enumerate(image_files):
-        new_filename = generate_new_filename('img', index, os.path.splitext(file)[1])
-        new_filepath = os.path.join(shuffled_images_dir, new_filename)
-        shutil.copy(file, new_filepath)
-        file_mappings.append({'original_path': file, 'new_path': new_filepath})
+        # Collect all PDFs in the catalog
+        pdf_files = [os.path.join(pdf_folder, file) for file in os.listdir(pdf_folder) if file.endswith(".pdf")]
 
-    # Write the file mappings to a CSV file
-    csv_path = os.path.join(shuffled_dir, 'file_mapping.csv')
-    with open(csv_path, mode='w', newline='') as csv_file:
-        fieldnames = ['original_path', 'new_path']
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-        writer.writeheader()
-        for mapping in file_mappings:
-            writer.writerow(mapping)
+        if not pdf_files:
+            continue  # Skip if no PDFs are found
 
-    print("Files have been shuffled, renamed, and copied to the 'shuffled' folder.")
-    print(f"File mapping has been recorded in '{csv_path}'.")
+        # Calculate how many PDFs can still be processed
+        remaining_pdfs = num_pdfs - total_pdfs_picked
+        if remaining_pdfs <= 0:
+            break  # Stop if we've already picked the desired number of PDFs
+
+        # Randomly select the appropriate number of PDFs from this catalog
+        selected_pdfs = random.sample(pdf_files, min(remaining_pdfs, len(pdf_files)))
+
+        for selected_pdf in selected_pdfs:
+            selected_pdf_base = os.path.basename(selected_pdf).replace(".pdf", "")
+
+            # Copy and rename the selected PDF
+            pdf_target_name = f"pdf_{global_counter:06}.pdf"
+            shutil.copy2(selected_pdf, os.path.join(target_pdf_dir, pdf_target_name))
+
+            # Log the PDF filename change
+            with open(csv_file, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow([selected_pdf, os.path.join(target_pdf_dir, pdf_target_name)])
+
+            # Find associated images and text files in the _images folder
+            associated_files = []
+            for file in os.listdir(image_folder):
+                if selected_pdf_base in file:
+                    associated_files.append(os.path.join(image_folder, file))
+
+            # Copy and rename associated images and text files
+            for file in associated_files:
+                file_extension = os.path.splitext(file)[1]
+                base_name = os.path.basename(file)
+
+                if "_ann" in base_name:
+                    new_filename = f"img_{global_counter:06}_ann{file_extension}"
+                elif "_ori" in base_name:
+                    new_filename = f"img_{global_counter:06}_ori{file_extension}"
+                else:
+                    new_filename = f"txt_{global_counter:06}{file_extension}"
+
+                shutil.copy2(file, os.path.join(target_image_dir, new_filename))
+
+                # Log the filename change
+                with open(csv_file, mode='a', newline='') as file:
+                    writer = csv.writer(file)
+                    writer.writerow([file, os.path.join(target_image_dir, new_filename)])
+
+            # Increment the counters
+            global_counter += 1
+            total_pdfs_picked += 1
+
+            if total_pdfs_picked >= num_pdfs:
+                break  # Stop if we've reached the desired number of PDFs
+
+    print(f"{total_pdfs_picked} PDFs have been processed and copied from the catalogs.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Shuffle and rename files from a sample directory.')
-    parser.add_argument('sample_dir', type=str, help='The path to the sample directory containing the original files.')
-    parser.add_argument('shuffled_dir', type=str, help='The path to the directory where shuffled files will be stored.')
-
-    args = parser.parse_args()
-    main(args.sample_dir, args.shuffled_dir)
+    if len(sys.argv) != 4:
+        print("Usage: python script.py ./sample_folder ./target_folder number_of_pdfs_to_pick")
+    else:
+        sample_folder = sys.argv[1]
+        target_folder = sys.argv[2]
+        num_pdfs = int(sys.argv[3])
+        main(sample_folder, target_folder, num_pdfs)
