@@ -13,7 +13,7 @@ __Part I-__ [CatalogBank: A Structured and Interoperable Catalog Dataset with a 
 
 <div align="center">
     <img src="./RepoAssets/figure2_web.JPG" width="90%"/>
-    <p><strong>Figure</strong> A sample for presenting the overall architecture of the envisioned CatalogBank dataset.</p>
+    <p><strong>Figure</strong> A sample for presenting the overall view of the complete CatalogBank dataset.</p>
 </div>
 
 __Part II-__ 🚧 **In preparation geometry, graph, and image part of the dataset** 🚧 
