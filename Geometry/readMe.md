@@ -1,1 +1,1 @@
-Please stay tune for Part 2.
+Please stay tuned for Part 2.
