@@ -52,7 +52,7 @@ __Note:__ The content relevant to DocumentLabeler is in a separate repository. P
    │    └── readMe.md
    └── readMe.md
  ```
-### __Catalogs/__: 📒 <a name="catalogs"></a>
+### __Catalogs/__ 📒 <a name="catalogs"></a>
 It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark, Tools). Each subfolder can have its own [readMe.md](./Catalogs/readMe.md) file to describe its contents and any specifics related to that catalog.  
 
 <div align="center">
@@ -60,23 +60,23 @@ It contains subfolders for each catalog source (e.g., Thorlabs, Grainger, Newark
     <p><strong>Figure</strong> a) Digitally-born Catalogs in PDF and b) after <a href="./Tools/1_CatalogBank_Preprocess_GenerateData.ipynb">preprocessing</a> from well-known vendors.</p>
 </div>
 
-### __Geometry/__: 🧊🔺🔵 <a name="geometry"></a>
+### __Geometry/__ 🧊🔺🔵 <a name="geometry"></a>
 Stores files related to geometric data. Include a [readMe.md](./Geometry/readMe.md) file to describe the types of geometries, their format, and a data library.  
 
-### __Graphs/__: 🔴➖🔴 <a name="graphs"></a>
+### __Graphs/__ 🔴➖🔴 <a name="graphs"></a>
 Stores graphical data or visualizations. The [readMe.md](./Graph/readMe.md) file details these graphs.  
 
-### __Images/__: 🖼️ <a name="images"></a>
+### __Images/__ 🖼️ <a name="images"></a>
 Contains image files. A [readMe.md](./Image/readMe.md) file explains the image data, its format, and a data library.  
 
-### __Tools/__: 🛠️ <a name="tools"></a>
+### __Tools/__ 🛠️ <a name="tools"></a>
 This folder contains scripts or tools for processing the data in CatalogBank. The [readMe.md](./Tools/readMe.md) file describes each tool and its purpose.  
 
-### __readMe.md__: 
+### __readMe.md__ 
 The main readMe file at the root of the repository should provide an overview of the entire CatalogBank, including a description of each subfolder and user instructions. Each main sub-folder has its readMe files to elaborate on the details of the associated folder.  
 
 ### Request Full Dataset Access 🔐 <a name="request-full-dataset-access"></a>
-In this repository, publicly shared content is partial (10-50 pages per catalog). In order to request access to the full dataset for educational purposes ({name_lastname}@{affiliation}.edu email address is required), please fill out the following [Google Form](https://forms.gle/rQVvcgX6cjGCtcqA7).
+This repository's publicly shared content is partial (10-50 pages per catalog). To request access to the entire dataset for educational purposes ({name_lastname}@{affiliation}.edu email address is required), please fill out the following [Google Form](https://forms.gle/rQVvcgX6cjGCtcqA7).
 
 Once your request is approved, you will receive an email with access instructions.
 
