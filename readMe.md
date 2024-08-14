@@ -1,6 +1,15 @@
 <div align="center" style="font-size: 22pt;"> 
  <img src="./RepoAssets/catalog_web.JPG" width="50%"/>
  <h1 style="text-align: center;">CatalogBank 📚</h1>
+   <a href="https://img.shields.io/github/stars/bankh/DocumentLabeler">
+    <img src="https://img.shields.io/github/stars/bankh/DocumentLabeler" alt="GitHub User's stars"/>
+  </a>
+  <a href="https://img.shields.io/github/forks/bankh/DocumentLabeler">
+    <img src="https://img.shields.io/github/forks/bankh/DocumentLabeler" alt="GitHub forks"/>
+  </a>
+  <a href="https://img.shields.io/github/contributors-anon/bankh/DocumentLabeler">
+    <img src="https://img.shields.io/github/contributors-anon/bankh/DocumentLabeler" alt="GitHub contributors"/>
+  </a>
 
 [Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ |  
 [Request Full Dataset Access](#request-full-dataset-access) 🔐
