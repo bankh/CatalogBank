@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/github/contributors-anon/bankh/DocumentLabeler" alt="GitHub contributors"/>
   </a>
 
-[Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ |  
-[Request Full Dataset Access](#request-full-dataset-access) 🔐 | <strong>[DocumentLabeler](https://github.com/bankh/DocumentLabeler)</strong> 🏷️
+[Folder Structure](#folder-structure) 📂 | [Catalogs](#catalogs) 📒 | [Geometry](#geometry) 🧊🔺🔵 | [Graphs](#graphs) 🔴➖🔴 | [Images](#images) 🖼️ | [Tools](#tools) 🛠️ | [Presentation Video](#presentation-video) 📹 | [Request Full Dataset Access](#request-full-dataset-access) 🔐 | <strong>[DocumentLabeler](https://github.com/bankh/DocumentLabeler)</strong> 🏷️
 
 </div>
 
@@ -80,6 +79,13 @@ Contains image files. A [readMe.md](./Image/readMe.md) file explains the image d
 
 ### __Tools/__ 🛠️ <a name="tools"></a>
 This folder contains scripts or tools for processing the data in CatalogBank. The [readMe.md](./Tools/readMe.md) file describes each tool and its purpose.  
+
+### __Presentation Video__ <a name="presentation-video"></a>
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=d5_FFa2ElMo" target="_blank">
+        <img src="https://github.com/user-attachments/assets/83ee1d25-a9c7-4a31-9b5b-ed2ddef0a18c" alt="YouTube Video" width="500">
+    </a>
+</div>
 
 ### __readMe.md__ 
 The main readMe file at the root of the repository should provide an overview of the entire CatalogBank, including a description of each subfolder and user instructions. Each main sub-folder has its readMe files to elaborate on the details of the associated folder.  
